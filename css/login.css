@@ -1,0 +1,18 @@
+﻿
+
+/**login.php.css***/
+.maintain{text-align:center;}
+button>a{text-decoration: none;color:black;}
+.login_left{float:left;width:80px;}
+.login_right{float:left;width:300px;}
+#login_con{padding-left: 100%;}
+/**end.login.php.css***/
+
+/**register.php.css***/
+.subject{margin-top:3px;}
+.subject:last-of-type{margin-bottom: 15px;}
+.reg_box{clear:both;}
+.reg_left{float:left;width:80px;}
+.reg_right{float:left;width:300px;}
+#reg_con{padding-left: 10%;}
+/**end.register.php.css***/
